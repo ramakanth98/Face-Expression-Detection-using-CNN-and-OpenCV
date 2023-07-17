@@ -1,6 +1,6 @@
-#Face-Expression-Detection-using-CNN-and-OpenCV
+**Face-Expression-Detection-using-CNN-and-OpenCV**
 
-##Project Aim
+*Project Aim
 The main objective of this project is to construct a deep learning model capable of accurately recognizing and classifying human emotions based on facial expressions in real-time.
 
 ##Project Overview
